@@ -37,6 +37,12 @@ public class TestServlet extends HttpServlet {
 		gotoPage(request, response, "/index2.jsp");
 		
 	}
+	
+	public void checkoutMethod() {
+		int i = 0;
+		i += 5;
+		return;
+	}
 
 	public void testMethod() {
 		return;
