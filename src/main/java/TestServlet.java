@@ -38,6 +38,10 @@ public class TestServlet extends HttpServlet {
 		
 	}
 
+	public void testMethod() {
+		return;
+	}
+	
 	/**
 	 * doPost
 	 */
