@@ -39,6 +39,7 @@ public class TestServlet extends HttpServlet {
 	}
 	
 	public void checkoutMethod() {
+		System.out.println("test");
 		return;
 	}
 
