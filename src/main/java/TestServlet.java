@@ -39,8 +39,6 @@ public class TestServlet extends HttpServlet {
 	}
 	
 	public void checkoutMethod() {
-		int i = 0;
-		i += 5;
 		return;
 	}
 
